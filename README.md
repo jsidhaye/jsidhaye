@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jsidhaye
+- 👀 I’m interested in developmental biology with special focus on neurodevelopment and gene expression.
+- 🌱 I’m currently a postdoctoral researcher learning bioinformatic and computational tools.
